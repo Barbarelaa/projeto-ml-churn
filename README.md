@@ -1,2 +1,2 @@
-# projeto-ml-churn
-Predição de churn de clientes no dataset Olist usando Decision Tree
+# projeto-olist-forecast
+Forecast de volume diário de pedidos usando regressão e árvore
